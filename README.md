@@ -2,6 +2,8 @@
 
 This repository contains the figures and tables used in the paper "Protein Foundation Models: A Comprehensive Survey". 
 
+![image-20250425174714826](figures/Figure1.png)
+
 ## Folder Structure
 - `figures/`: Contains figures from the paper.
 - `tables/`: Contains tables from the paper.
@@ -176,12 +178,5 @@ The table below presents key information about various protein foundation models
 | Protenix                | Diffusion       | √           | 2025 | 10.1101/2025.01.08.631967                                    |
 
 ## Contributions
-### Citation
-If you find this repository useful, please cite our paper as follows:
-
-```
-{XXX}
-```
-
 ### Contact
 For inquiries, feedback, or suggestions, please reach out to **Hao Xu** at xuhao@bmi.ac.cn. Your input is highly appreciated!
