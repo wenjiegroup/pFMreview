@@ -13,9 +13,9 @@ This repository contains the figures and tables used in the paper "Protein Found
 
 ## Tables
 
-### Table Data: Protein Databases
+### Table Data: Protein Databases & benchmark
 
-The table below provides details on various protein databases.
+The table below provides details on various protein databases and benchmarks.
 
 | Database       | Size / Content                                     | Last update   | URL                                                          |
 | -------------- | -------------------------------------------------- | ------------- | ------------------------------------------------------------ |
@@ -122,7 +122,7 @@ The table below presents key information about various protein foundation models
 | Str2Str              | Diffusion         | √           | 2024 | 10.48550/arXiv.2306.03117                          |
 | Proteina             | Flow matching     | √           | 2025 | 10.48550/arXiv.2503.00710                          |
 | La-Proteina          | Flow matching     | √           | 2025 | 10.48550/arXiv.2507.09466                          |
-| RFdiffusion2         | Flow matching     | ×           | 2025 | 10.1101/2025.04.09.648075                          |
+| RFdiffusion2         | Flow matching     | √           | 2025 | 10.1101/2025.04.09.648075                          |
 | AlphaFlow            | Flow matching     | √           | 2024 | 10.48550/arXiv.2402.04845                          |
 | MultiFlow            | Flow matching     | √           | 2024 | 10.48550/arXiv.2402.04997                          |
 | P2DFlow              | Flow matching     | √           | 2025 | 10.1021/acs.jctc.4c01620                           |
