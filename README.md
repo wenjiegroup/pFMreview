@@ -3,8 +3,9 @@
 This repository contains the figures and tables used in the paper "Protein Foundation Models: A Comprehensive Survey". 
 
 <p align="center">
-  <img src="figures/figure1.png" alt="Description" width="800"/>
+  <img src="figures/Figure1.png" alt="Description" width="800"/>
 </p>
+
 
 
 ## Folder Structure
